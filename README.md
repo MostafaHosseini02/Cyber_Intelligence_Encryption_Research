@@ -21,19 +21,19 @@ A central part of the work is the development of an integrated conceptual model 
 
 The project combines two complementary views of a cyber attack. The upper part of the model focuses on the adversary, including infrastructure, capabilities, tactics and motivation. The lower part focuses on the defender, including asset identification, network security monitoring, incident response and threat/environment manipulation.
 
-<p align="center"><img src="./images/integrated_diamond_active_defence.png" width="700"></p>
+
 
 ## Attack and defence analysis
 
 The attack process was studied as a sequence of stages, from motivation and target selection to capability development, access, execution and reassessment. Defensive actions were then mapped to different attack phases using detection, denial, disruption, degradation and deception methods.
 
-<p align="center"><img src="./images/attack_lifecycle.png" width="800"></p>
+
 
 ## AI for cyber defence
 
 The project also examines how artificial intelligence can support intrusion detection and cybercrime defence. The methods include neural networks for anomaly detection, intelligent agents for distributed response, genetic algorithms for learning detection rules and fuzzy systems for handling uncertain behaviour.
 
-<p align="center"><img src="./images/advanced_idps_architecture.png" width="700"></p>
+
 
 ## Report
 
